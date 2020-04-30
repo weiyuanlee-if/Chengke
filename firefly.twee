@@ -608,7 +608,7 @@ The TV is on downstairs, it’s that program about stocks and money. Usually con
 
 
 :: packing
-<<if $clock is true>>”Kay, Dad got the clock. What’s so special about this shit anyway?”
+<<if $clock is true>>[”Kay, Dad got the clock. What’s so special about this shit anyway?”
 
 
 I’m only allowed to curse in front of Father. He looks at me with  knitted brows, snatches the clock out of my hand and simply tosses it into a gap between the two zippers.
@@ -639,7 +639,7 @@ I decide to leave him alone when he sits back on the sofa, his eyes getting all 
 
 
 
-[[Leave him alone|computer]]<<elseif>>The suitcase sits in the middle of the living room, bulging, like a [[bloated whale at beach.|computer]<<elseif>>
+[[Leave him alone|computer]]]<<elseif>>[The suitcase sits in the middle of the living room, bulging, like a [[bloated whale at beach.|computer]
 
 
 
@@ -683,13 +683,13 @@ He sucks in his teeth at me and waves me away. I suck my teeth back at him.
 
 
 
-I go down to the basement. I hate [[going down there|basement]] though.
+I go down to the basement. I hate [[going down there|basement]] though.]
 
 
 
 
 
-:: hoto snatch 
+:: photo snatch 
 He closed his eyes for a brief moment before I pulled out the photo. I tap his clammy hand that has a brown keloid across the surface. He opens his eyes and they’re dead for a moment and then widen when he realizes what’s before him.“Where did ya get that from? Huh?”
 
 
