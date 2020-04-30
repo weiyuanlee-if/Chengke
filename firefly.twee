@@ -70,10 +70,11 @@ A witness called, I [[couldn’t thank her.|Introthetunnel]] I had fallen of con
 I can’t explain what I saw after, it looked like a hand reaching for my face in the darkness.
 The smell of burned cinders, permeating my nostrils, the chemicals tightening my throat. It felt so hot, yet my body felt enveloped in a wet film. There was a discussion of something around me, murmuring about what to do maybe with my corpse. To ship me and send me to an island of nameless others, because no one can claim me, because I am unrecognizable from the wreckage.
 
- I heard a hesitant, clumsy on the lips: “Yes, sir”. Then the being’s hand came forward and [[shut my lids.|
+ I heard a hesitant, clumsy on the lips: “Yes, sir”. Then the being’s hand came forward and [[shut my lids.|IntroCellphone]]
 
 
 :: IntroCellphone 
+
 I think I left my cell phone in the body of the cab.
 I didn’t even finish texting my mother the sentence, I think I stopped at “I’m”, before the driver got gutted in the front, and I got T-boned.
 
@@ -1195,6 +1196,14 @@ I thank him and open up the Manila envelope just to what I’m missing. The page
 
 I’m sitting on my bed with all my clothes rolled up in tubulars and halfway listening to my Mother tell a story about my grandmother's odd labors. Ironing shoelaces for a couple of bucks an hour, cutting her hair for weave installments for her neighbor. Hell she even plucked eyebrows for a living. 
 
+"My mother used to fill in them women's lil' pinche eyebrows and make them full. I don't know how but I know one that did it."
+
+She playfully punches the skin of my eyebrow ridges. I have unusually thin eyebrows for man on my mother's side of the family, inheriting my father's sparse facial hair trait.
+
+"I gonna fill one of yours up one day."
+
+I pull away from her grasp and laugh. Then I begin putting my clothes away in a luggage.
+
 
 <<if $envelope is true>>[I got my Chinese homework half complete in the midst of all this, folded in half, eraser flakes and graphite dust getting on my white comforter I had just washed. 
 
@@ -1213,4 +1222,24 @@ Also, what's so special about fireflies?
 This has to be a joke right?]<<elseif>>[
 Minutes before, Mother had began scrutinizing the fact that I never wear any of my oversized t-shirts because she expected me to grow above 5'6 and take on the size of my maternal grandfather, who she claimed towered above the family with a size of 6'3 and was a boxer who had won at least one golden reward before getting kicked off the ring for committing a foley he didn't even do.
 
-]
+It's been a long time since we left this house for something other than contributing to labor systems. However, it's always been common for father to not be present or a [[background actor->homeleaving]] to the family. So once again, Mother and I depart on journies without and we always have him rotating on a tape in the back of the theater, images repeating, because he's not physically there.]
+
+:: homeleaving
+
+While loading the car with our luggage, I noticed that the sky is getting darker earlier than usual. The traffic is dwindling as the period of exodus from workplaces and schools has finally ended. When no cars pass, a silence weighs on your ears. It's a feeling you only notice in the city, a silence so fraught that for a moment you will hear your heart beat finally until things get active again, and you forget you have one.
+
+When you go to the suburbia or the country and you just stand and listen, it feels just so much different than when you live in the city.
+
+It's a feeling I crave at the moment. 
+
+I want to leave. 
+
+Mother sets up the car, wearing her whitest poncho and her hair wrapped in a yellow turban, earrings dangling. As if we getting to Bells in in one night and she will be able to present herself nice at the porch step.
+
+I sit in the back, forced to wear a button up shirt and with green khakis. My newly braided and tight. It was a miracle I part the sea of my hair as clean as I did.
+
+We leave for the city, with the smoke trailing behind us, and our shoulders finally loosening, departing our roles, temporarily.
+
+:: yellowfields
+
+note: if evenlop is true. reading the chinese hw, sends professor an email about the worksheets and reaading the thing again in chinese. if friendrequest true, its confirmed the girl responded, she sends a message. if none of them true its the casual looking out the window and a dream about death.
