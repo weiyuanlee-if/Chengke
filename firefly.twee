@@ -1196,18 +1196,21 @@ I thank him and open up the Manila envelope just to what I’m missing. The page
 I’m sitting on my bed with all my clothes rolled up in tubulars and halfway listening to my Mother tell a story about my grandmother's odd labors. Ironing shoelaces for a couple of bucks an hour, cutting her hair for weave installments for her neighbor. Hell she even plucked eyebrows for a living. 
 
 
-<<if $envelope is true>>I got my Chinese homework half complete in the midst of all this, folded in half, eraser flakes and graphite dust getting on my white comforter I had just washed. 
+<<if $envelope is true>>[I got my Chinese homework half complete in the midst of all this, folded in half, eraser flakes and graphite dust getting on my white comforter I had just washed. 
 
 The lesson is hard. But more because my body is still processing changes and it’s not ready to go back to the version of LeiKwan on Monday afternoon.
 
-It generally makes no sense and I don’t know if it’s because I’m lost in translation or in strokes. The title is “Farewell Firefly”. If you can’t say Goodbye in Chinese and your on volume 2, that’s concerning. Firefly is found in the vocabulary list.
+It generally makes no sense and I don’t know if it’s because I’m lost in translation or in strokes. The title is “Farewell Firefly”. If you can’t say Goodbye in Chinese and your on volume 2, that’s concerning. Firefly is found in the vocabulary list. So I got that pat down, I can read the pronouns, names, directions, and some adjectives. What I'm not getting is the main idea. The lesson just feels like a mish mosh of random words. In every lesson, there's drawn depiction of the fictional characters. Song Hua and Ding Libo, the two Mainland Chinese students are drawn walking on paved through a forest. They're not wearing their usual uniforms, but instead appropriate attire for a summer day. Button up blouses and bermuda shorts at the knee. 
 
-The story goes like this, my translation is as loose as possible: Song Hua and Ding Libo go on a hiking trip in the U.S. and they decide to camp in the forest. But then they run out of water and Song Hua decides to search for a river to get water to boil…then she comes upon am abandoned well and house. In there, they find a jar of fireflies and they talk about how pretty it is. Then they walk down a path and find a river, fill their pots with water, and leave.
+The story goes like this, my translation is as loose as possible: Song Hua and Ding Libo go on a hiking trip in the U.S. and they decide to camp in the forest. But then they run out of water, Song Hua decides to search for a river to get water to boil…then she comes upon an abandoned well and house. In there, they find a jar of fireflies and they talk about how pretty it is and decide to take it back to the camp. Then they walk down a path and find a river, fill their pots with water, and leave.
 
-This is not the usual story the Practical Chinese Reader makes you read, I guess Lu Hsun decided to stretch it out. 
+This is not a typical story  the Practical Chinese Reader makes you read. I guess Lu Hsun decided to try out a new technique and the editor decided give up making it accessible. 
 
-First of all it’s beyond the difficulty level and second of all, it just doesn’t make sense. If I was Song Hua and Ding Libo and found an abandonded cabin, I wouldn't even enter it. Also, what's so special about fireflies?
+First of all it’s beyond the difficulty level for this volume and second of all, it just doesn’t make sense. If I was Song Hua and I found an abandonded cabin, I wouldn't even enter it. 
 
-This has to be  joke right?<<elseif>>
+Also, what's so special about fireflies? 
 
-Minutes before, Mother had began scrutinizing the fact that I never wear any of my oversized t-shirts because she expected me to grow above 5'6 and take on the size of Black grandfather, who she claimed towered above the family with the 6'3 and was a boxer who had won at least one golden reward before getting kicked off the ring for committing  foley he didn't even do.
+This has to be a joke right?]<<elseif>>[
+Minutes before, Mother had began scrutinizing the fact that I never wear any of my oversized t-shirts because she expected me to grow above 5'6 and take on the size of my maternal grandfather, who she claimed towered above the family with a size of 6'3 and was a boxer who had won at least one golden reward before getting kicked off the ring for committing a foley he didn't even do.
+
+]
