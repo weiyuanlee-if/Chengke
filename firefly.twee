@@ -1020,7 +1020,7 @@ he has 3 friends. My father. My mother. And a teen girl...
 
 I friendrequest her. Maybe I can ask about her father. She can also ignore me too. but sometimes people like collecting mutual friends and she has my mother and father. She's around my age, wearing blue circle contacts and black hair with blond streaks. She's majoring in computer science.
 
-Guess I will wait for her approval.
+Guess I will wait for her approval. <<set $friendrequest to true>>
 [[I log out.]] 
 
 I don't know why I'm so eager to know this person who's no longer on earth. This is spooking me out honestly. Too many people are dying around me and I'm searching for their last fragments with no goal in mind. I log off Facebook. There's better things to do.
@@ -1242,8 +1242,22 @@ We leave for the city, with the smoke trailing behind us, and our shoulders fina
 
 :: yellowfields
 
-It's morning. I wake up with my tongue dry and sticky, the sun on my lids, brighter than I ever remember. My back aches, as I try lifting the car seat up.
-We are surrounded by corn field, vast lands sprawling out before us. skies gray and thick with fog.  
+It's morning. I wake up with my tongue dry and sticky, the sun on my lids, brighter than I ever remember, a warm touch to skin. My back aches, as I try lifting the car seat up.
+
+
+We are surrounded by corn field, vast lands sprawling out before us. skies gray and thick with fog. My mother yawns and mutters something about the radio, which blurs in and out with static and echoes of Motown. The burned CD we had brought to place in the stereo is to wounded with surface scratches to utter a sound.
+
+Mother and I had talked about the future. How I'm the only son. That I need to get my feet on the ground and get working on my unpaved road of achievement. 
+
+We've had this convo before. I'm sure Mother is tired of it. I know I am too. I don't know what I'm waiting for.
+
+After all no being from the sky has even give me anything. So I don't know what I'm expecting. But thinking about the loss of my current position, my old dangling in the wind before it's finally taken.
+
+It's just not fair. <<if $envelope is true>>I decide to start doing this homework when I wake up. I had messaged my professor at a noisy ass Wendy's when we got to Philly about the exam and the homework I was handing in. Of course he was lenient. I told him I will send it digitally if I got a printer or a library nearby.
+
+He said no worries. I try to read it again through squinted eyes, focusing against the sun and my pain. The paper underneath my dry finger tips. Shit starts to give me a headache. I had also emailed Gabriel about the work and he has said nothing, which strikes me as odd again. This time there shouldn't be a motive of why he wouldn't promptly. 
+
+I'm confined in a moving steel body. That isn't closing in on me. I should appreciate this moment. I close my eyes again.<<elseif $friendrequest is true>>
 
 
 note: if evenlop is true. reading the chinese hw, sends professor an email about the worksheets and reaading the thing again in chinese. if friendrequest true, its confirmed the girl responded, she sends a message. if none of them true its the casual looking out the window and a dream about death.
