@@ -1026,8 +1026,6 @@ Guess I will wait for her approval. <<set $friendrequest to true>>
 I don't know why I'm so eager to know this person who's no longer on earth. This is spooking me out honestly. Too many people are dying around me and I'm searching for their last fragments with no goal in mind. I log off Facebook. There's better things to do.
 
 
-
- 
 [[Log into the student portal|student portal]]
 [[Read the news|thenews]]
 [[Delete emails for the rest of the night|deleteemails]]
@@ -1257,11 +1255,24 @@ It's just not fair. <<if $envelope is true>>I decide to start doing this homewor
 
 He said no worries. I try to read it again through squinted eyes, focusing against the sun and my pain. The paper underneath my dry finger tips. Shit starts to give me a headache. I had also emailed Gabriel about the work and he has said nothing, which strikes me as odd again. This time there shouldn't be a motive of why he wouldn't promptly. 
 
-I'm confined in a moving steel body. That isn't closing in on me. I should appreciate this moment. I close my eyes again.<<elseif $friendrequest is true>>
+I'm confined in a moving steel body. That isn't closing in on me. I should appreciate this moment. I close my eyes again.<<elseif $friendrequest is true>>[I take out my phone, plug in earphones to listen to a Chinese podcast I barely understand. Then i log onto Facebook. Jimmy's daughter has accepted my friend request. Which is shocking really? But I guess she figured she has my mom and dad friended, so why not the heir. After all we’d share more common. Only a year apart.
+
+Her feed is quite active. Photos of her recent graduation, wearing scrubs and watching a pair of lungs pump through a machine, science articles with dubious facts mixed in with journal articles.
+
+There is no mention of her father. He is not present in any of her graduation pictures. I can’t recall exactly when he passed. He must’ve left before he could see her walk into the podium.
+
+Then something catches my eye. There’s a picture of me and her as children standing stiffly in formal clothing at the Tea House. I know this because Jimmy is wearing the exact same uniform. The name of the restaurant embroiled on the sleeve cuff. I also recall that Father still has it hanging in the closet. I think of what to message her but would could I possibly say with hitting a wro-]
+
+Something falls real hard and the car shakes and halts. My mother may have dreamed about this because she curses, yells and slam the wheel. Trying so hard not curse god but spewing filth at the very land he laid for us.
 
 
-note: if evenlop is true. reading the chinese hw, sends professor an email about the worksheets and reaading the thing again in chinese. if friendrequest true, its confirmed the girl responded, she sends a message. if none of them true its the casual looking out the window and a dream about death. The cat breaks down in the middle of the road nd they have to walk there. so they sleep bc its too hot and Lei starts to finally hallucinte his uncle.
 
+
+
+
+
+
+<!-- note: if evenlop is true. reading the chinese hw, sends professor an email about the worksheets and reaading the thing again in chinese. if friendrequest true, its confirmed the girl responded, she sends a message. if none of them true its the casual looking out the window and a dream about death. The cat breaks down in the middle of the road nd they have to walk there. so they sleep bc its too hot and Lei starts to finally hallucinte his uncle.
 
 Big Plot: So like when you get to the part where you transport to the alt world. Based on earlier choices your role in the alt world is chosen. So basiclly without your uncle's help,if you chose the Chinese hw, you go to the well a little earlier and descend into the lt world, if you dont, your uncle has to lead you there. 
 
@@ -1275,7 +1286,8 @@ he and his descendents and minions basically control poor ppl's business or prom
 
 Basically Lei dad's sacraficed his nephew to the landlord. His aunt did want the child.
 
-Lee this is screwed up, but ay it works i guess.
+Lee this is screwed up, but ay it works i guess. -->
+
 
 
 
