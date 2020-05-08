@@ -1283,6 +1283,32 @@ But I should watch the car, so I crawl back in and close my eyes. Take a book an
 
 :: MotherSilenceChoice
 
+She hasn't come back. Did she got lifted on the way down the road? I can't believe I even have to think of this because after she raised me not to hang on the streets and wander around alone. Now looks what's happening. 
+
+[[Call her on the phone.->RoadPhoneCall]]
+
+[[Leave the car->leavethecar]]
+
+[[Stay behind and just wait a little longer->alittlelonger]]
+
+:: RoadPhoneCall
+
+There's barely any signal. But I should make an effort. Do an interruption on her wave and get my word in. I call her number but it goes straight to voice message. Maybe I should try again later?<<set $phonecall to 1>>I call her again. I listen to the voice message, knowing her eyes were rolled to the side when she first made it. "Sorry for the inconvience, I ain't here, call me again later."
+
+I called again. I hope she picks up this time. "Sorry for the inconvience, I ain't here, call me again later." Then the voice mail bot says that her inbox is actually full. I forgot that's even a thing.
+
+[[Call her on the phone.->RoadPhoneCall]]
+
+
+[[Leave the car->leavethecar]]
+
+[[Stay behind and just wait a little longer->alittlelonger]]
+
+:: leavethecar
+
+:: alittlelonger
+
+
 
 
 
