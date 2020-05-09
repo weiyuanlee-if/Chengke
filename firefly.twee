@@ -1,6 +1,6 @@
 :: Start
 再見螢火蟲Farewell Firefly
-[[Start|quote]]
+[[Start|Chapter1Screen ]]
 [[Content Warning|CW]]
 [[Credits|Credits]]
 
@@ -30,8 +30,7 @@ This game is inspired by African American Southern Gothic literature such as Sin
 
 
 
-:: quote 
-[[quote|about]]- author
+
 
 
 :: about
@@ -1285,6 +1284,8 @@ But I should watch the car, so I crawl back in and close my eyes. Take a book an
 
 She hasn't come back. Did she got lifted on the way down the road? I can't believe I even have to think of this because after she raised me not to hang on the streets and wander around alone. Now looks what's happening. 
 
+Damn, she took the keys with her too.
+
 [[Call her on the phone.->RoadPhoneCall]]
 
 [[Leave the car->leavethecar]]
@@ -1306,13 +1307,66 @@ I called again. I hope she picks up this time. "Sorry for the inconvience, I ain
 
 :: leavethecar
 
+The car is less important than me or the family. We can always get a new one. It's been over an hour and I don't wanna die of some heat stroke.
+
+This is not the usual. My mother has smack my father face upside down for leaving me in a hot car. 
+
+So something's wrong here. I get out of the car, stretch my legs, hot phone in my pockets. In the truck we got a pack of water, I put one in each pocket. Inside of the cooler is all melted. The sweet potato pie, made by grandma's renown recipe that had people talking in towns all across America, is ruined.
+
+We took all day [[baking that.->chapter 2]]
+
 
 :: alittlelonger
 
-I decide to wait a little longer. Let the sun bestow upon me a new skin. But I should probably get moving. Also this car is unbearably hot.
+I decide to wait a little longer. Let the sun bestow upon me a new skin. But I should probably get moving. Also this car is unbearably hot. I feel the rays going through the glass windows and they are strengthened by the material, they are forming new light sources and piercing my eyes. The vinyl seats are searing my thighs.
+
+Worst time to be wearing bermuda shorts, especially black. But I assumed it was plaid and the white squares mixed would do it a little less heat absorption.
+
+It's gonna be hot regardless. But someone needs to watch the car. 
 
 
+[[Call her on the phone.->RoadPhoneCall]]
 
+[[Leave the car->leavethecar]]
+
+[[Stay behind and just wait a little longer->alittlelonger]]
+
+
+::chapter2
+
+Chapter 2: Old Man river
+
+Going to see the river man
+Going to tell him all I can
+About the ban
+On feeling free.
+
+If he tells me all he knows
+About the way his river flows
+I don't suppose
+It's meant for me.
+
+Oh, how they come and go
+Oh, how they come and go.
+
+
+- "River Man" by Nick Drake
+
+[[>>->theroadwalk]]
+
+:: theroadwalk
+
+I don't know how I ended up here. But I hope my son smart enough to leave the damn car. I know I raised a smart boy, but there are days I do question what he doing. I went down the road, calling my sis and she didn't answer. Not even grandma. They all got their up their asses sometimes, but they never disappoint like this. I swear I wonder, what in the hell is in this bloodline.
+
+The connection is down. So I wasn't calling no dead blood relatives then.
+
+I couldn't stop going forward especially since no one was responding and I didnt see anything else for help. The street is burning under my feets under these flats. I removed the scarf on my head and tied it around my burning neck.
+
+Just as when I thought of turning back, I see a car in the distance. Some little black one. Zooming down like they fleeing from the popo. I start jumping and waving like I'm meeting the man of my dreams for the firt time.
+
+He zoomed right past me. What a [[god damn asshole.->theroadwalk2]]
+
+:: theroadwalk2
 
 
 
@@ -1329,7 +1383,7 @@ the president is a landlord who died after his stores were burnt down and he is 
 
 he and his descendents and minions basically control poor ppl's business or promisee ppl thriving business and then hit them with large requirements or sacrafices.
 
-Basically Lei dad's sacraficed his nephew to the landlord. His aunt did want the child.
+Basically Lei dad's sacraficed his nephew to the landlord. His aunt didnt want the child.
 
 Lee this is screwed up, but ay it works i guess. -->
 
