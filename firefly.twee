@@ -2,17 +2,20 @@
 再見螢火蟲Farewell Firefly
 [[Start|Chapter1Screen ]]
 [[Content Warning|CW]]
+<<if $ended = true>>[Spoilers behind this link if you want the alternate ending without replaying.]<</if>>
 [[Credits|Credits]]
 
 
 Plot note: There is a man behind you during the car crash who also crashed and die, he haunts you. Then it turns out that he was a distant cousin as your aunt down in the South says “We got all kind of family spanning the whole country. You shake hands with a cuz and don’t even know it. But then you turn and realize. Those eyes looked familiar. But none of them people will talk to ya. Hell, I don’t even remember what names the family tree has adopted by now. Williams, Garcia, and Richardson…and then there’s you, Kwan.” My grandmother smiles and her teeth are so bright and straight for a person her age.
 
+Plot note 6/20:
 
-
+Instead of this silly weird desert scenario. Make it instead forestry. Mother says “I know my mother live in the boondocks under some tall  tall trees. But I know this ain’t it” and they stop at a train track. And your mother decides to leave and you follow the abandoned train and walk until you find the river bank where you see a dead man and you go running. Old trains become a motif in this game. You enter and leave the world
 
 
 :: CW 
-<i>Farewell Firefly</i> is a murder mystery, interactive text novel. There will be a plethora of things to watch out for. Here is a list of themes. Click the links for more details, but there will be slight spoilers as a result. The details are vague enough, so you won’t know names of characters or where the event occurs in the story.
+<i>Cheng Ke</i> is a murder mystery, interactive text novel. There will be a plethora of things to watch out for. Here is a list of themes. Click the links for more details, but there will be slight spoilers as a result. The details are vague enough, so you won’t know names of characters or where the event occurs in the story.
+
 - Tragic accident/Near Death Experience: The main character survives a car crash and experiences a near death experience. Spirits follow him around ever since.
 
 - Suicide and stalking:  A main plot element of the story, the main character’s distant cousin commits suicide and he must find out the reason for it. It turns out they were a victim of stalking.
@@ -22,22 +25,22 @@ Plot note: There is a man behind you during the car crash who also crashed and d
 
 
 :: Credits
-Written, Coded, and Designed by Wei Yuan LeeHTML/CSS/Javascript by
+Written, Coded, and Designed by Wei Yuan Lee 
+Logo by
 Created in Twine 2/Sugarcube 2.
-The title of this game, “Farewell Firefly”, is an English translation of the song, "再見螢火蟲" by Chinese singer, Faye Wong. It is the 9th track of the album, 寓言<<click-replace: “寓言”>>[Fable].
+The title of this game, <<linkreplace: "“乘客”">>["ChéngKè"], means "passenger".<</linkreplace>>
 
-This game is inspired by African American Southern Gothic literature such as Sing, Unburied, Sing by Jesmyn Ward and the music video for the song “半島鐵盒” (Ban Dao Tie He) by Han-Taiwanese musician, Jay Chou.
+This game is inspired by African American Southern Gothic literature such as <i>Sing, Unburied, Sing</i> by Jesmyn Ward and the music video for the song <<linkreplace: "“半島鐵盒”">>[Bàn Dǎo Tiě Hé] by Han-Taiwanese musician, Jay Chou.<</linkreplace>>
 
+[[Return|Start]]
 
 
 
 
 
 :: about
-<i>Farewell Firefly</i> is a murder/mystery twine novel about spirits, family superstition, intergenerational trauma, and decayed class privileged.
+<i>Cheng Ke</i> is a urban fantasy mystery twine novel about spirits, family superstition, intergenerational trauma, and decayed class privilege.
 There are only two endings. It is about -insert number - words long.
-
-<<$if ended = true>>[Spoilers behind this link if you want the alternate ending without replaying.]
 
 Did you read the content warning? If you prefer not to, you can [[continue|Chapter1Screen]], if you forgot you can [[read it now.|CW]]
 
@@ -51,6 +54,7 @@ Chapter 1: Heaven, Sky, Garden Falls
 
 :: IntroReborn 
 I am born again, pulled out of the womb of a crunched up cab. Hospital sirens blaring all throughout, cop car lights’ blue and red rays against my lids. Feeling the wetness of my own and maybe the driver’s blood all over my hands and face. Glass in between the webs of my fingers, my rows of braided hair.
+
 I can barely walk, my legs can’t handle me now.
 
 The world under my feet can’t [[even hold me.|IntroCellphone]]
@@ -58,24 +62,29 @@ The world under my feet can’t [[even hold me.|IntroCellphone]]
 
 
 :: IntroAccident 
-I don’t think the driver survived when the impact happened. He stopped talking and his body fell limp like a puppet whose strings were cut. His blood leaked from his head and stained the fabric of the air bag, like a fallen cup of red paint on a canvas. The stain formed a shape resembling a flower opening up its petals as it thirsts for the sun.
-The man who caused the accident came to our car, yelled some expletives that quivered out his lips, and his coward ass drove away without even contacting the police. He ran away with his tail in between his legs, not admitting his part in a stolen life. There was a person behind me too, I don’t know about their fate.
 
-A witness called, I [[couldn’t thank her.|Introthetunnel]] I had fallen of consciousness, couldn’t even part my lips.
+The driver had stopped talking and his body fell limp like a puppet whose strings were cut. His blood leaked from his head and stained the fabric of the air bag, like a fallen cup of red paint on a canvas. The stain formed a shape resembling a flower opening up its petals as it thirsts for the sun.
+
+The man who caused the accident came to our car, muttered some expletives out of his quivering lips, and then his coward ass drove away without even contacting the police. He ran away with his tail in between his legs, not admitting his part in a stolen life. The person who had hit us from the front? I don’t know about their fate, the air bag had covered their last moment.
+
+A witness called, I [[couldn’t thank her.|Introthetunnel]] I had fallen out of consciousness, couldn’t even part my lips.
 
 
 
 :: Introthetunnel 
-I can’t explain what I saw after, it looked like a hand reaching for my face in the darkness.
-The smell of burned cinders, permeating my nostrils, the chemicals tightening my throat. It felt so hot, yet my body felt enveloped in a wet film. There was a discussion of something around me, murmuring about what to do maybe with my corpse. To ship me and send me to an island of nameless others, because no one can claim me, because I am unrecognizable from the wreckage.
 
- I heard a hesitant, clumsy on the lips: “Yes, sir”. Then the being’s hand came forward and [[shut my lids.|IntroCellphone]]
+I can’t explain what I saw after my eyes had closed, it looked like a hand reaching for my face in the darkness.
+
+The smell of burned cinders, permeating my nostrils, the compounds tightening my throat. It felt so hot, yet my body felt enveloped in a wet film. There was a discussion of something around me, murmuring about what to do maybe with my corpse. To ship me and send me to an island of nameless others, because no one can claim me, because I am unrecognizable from the wreckage.
+
+I heard a hesitant, clumsy on the lips: “Yes, sir”. Then the being’s hand came forward and [[shut my lids.|IntroCellphone]]
 
 
 :: IntroCellphone 
 
 I think I left my cell phone in the body of the cab.
-I didn’t even finish texting my mother the sentence, I think I stopped at “I’m”, before the driver got gutted in the front, and I got T-boned.
+
+The text didn't get a chance to go through, I think I stopped at “I’m”, before the driver got gutted in the front, and T-boned on the passenger side.
 
 It felt cold in there, to feel the wind passing through the wreckage, the steel innards scraping against my skin, to feel myself closer to the other side.
 
@@ -178,6 +187,7 @@ Did they take me to the hospital where you never leave after a procedure because
 
 
 :: Omgeveryonepanic 
+
 I attempt to remove one of the gauze on my cheeks as its pulling at my side burns. Bad enough I inherited my father’s incomplete beard genes. Disunity is practically a whole entire way of being for me.
 “AY WHAT I TELL YOU!” my mother screams at me, but I am as stubborn as an ox going for another round of goring the matador.
 
@@ -1264,7 +1274,7 @@ Then something catches my eye. There’s a picture of me and her as children sta
 
 I had fallen asleep when we left Pennsylvania, there was a traffic jam that last for about 10 minutes and my body couldn't bare the lack of movement anymore.
 
-It came like like the strike of an axe into the middle of my face and exposing me to all horrible. But I couldn't remember exactly what, but I know I've been nightmares since this whole thing start.
+It came like like the strike of an axe into the middle of my face and exposing me to all horrible. But I couldn't remember exactly what, but I know I've been having nightmares since this whole thing start.
 
 There is an answer somewhere in these sights, but something is not letting me parse them. Although I remember one flicker of the fever films and it's the image of me walking on a rail road track, feet heavy and neck not willing to hold me up. My clothes sinking me down, doing gravity even more of a favor.
 
@@ -1372,12 +1382,22 @@ Walking down this empty road, I don't even understand how I havent seen a single
 
 But nothing comes. Then it hits me that maybe I should hit up my aunts and cousins. I start scrolling on my contact list out of desperations, their numbers aren't in my phonebook. Man, we really dying on our way to a reunion huh?
 
-I decide to walk a little longer, if I don't find mother then I need return to the car. Then I start to see in the distance. [[A tunnel.->thetunnel]]
+I decide to walk a little longer, if I don't find mother then I need return to the car. But not long after I start to question my decisions, I see in the distance [[A tunnel.->thetunnel]]
 
 
-:: thetunnel
+:: thetunnelintro
 
-The entrance of the tunnel is surrounded with a cobble stone 
+The entrance of the tunnel is encased in a stone arch, moss and white flowers hang, a petal comes off and falls right on the big toe of my shoe. I don't know what this is going to lead to, ain't see a thing down the darkness within it. Before I go in further, I listen for what's there in the unseeable, a faint wind coursing through. 
+
+[[So there is an end.->thetunnelwithin]]
+
+:: thetunnelwithin
+
+The walls around me are wet and cold. In my hand, I carry my iPhone on the flashlight setting. There is more than one tunnel and the moisture tinkles my nose.
+
+
+
+
 
 
 
