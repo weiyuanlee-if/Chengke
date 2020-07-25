@@ -1,191 +1,230 @@
-:: Start
-再見螢火蟲Farewell Firefly
-[[Start|Chapter1Screen ]]
-[[Content Warning|CW]]
-<<if $ended = true>>[Spoilers behind this link if you want the alternate ending without replaying.]<</if>>
-[[Credits|Credits]]
+VAR blackout = false
 
 
-Plot note: There is a man behind you during the car crash who also crashed and die, he haunts you. Then it turns out that he was a distant cousin as your aunt down in the South says “We got all kind of family spanning the whole country. You shake hands with a cuz and don’t even know it. But then you turn and realize. Those eyes looked familiar. But none of them people will talk to ya. Hell, I don’t even remember what names the family tree has adopted by now. Williams, Garcia, and Richardson…and then there’s you, Kwan." My grandmother smiles and her teeth are so bright and straight for a person her age.
+->Start
+
+===Start===
+
+乘客Passenger
+
+* [about]
+->Chapter1Screen
+* [Content Warning ]
+-> CW
+* [Credits]
+->Credits
+
+/* Plot note: There is a man behind you during the car crash who also crashed and die, he haunts you. Then it turns out that he was a distant cousin as your aunt down in the South says “We got all kind of family spanning the whole country. You shake hands with a cuz and don’t even know it. But then you turn and realize. Those eyes looked familiar. But none of them people will talk to ya. Hell, I don’t even remember what names the family tree has adopted by now. Williams, Garcia, and Richardson…and then there’s you, Kwan." My grandmother smiles and her teeth are so bright and straight for a person her age.
 
 Plot note 6/20:
 
-Instead of this silly weird desert scenario. Make it instead forestry. Mother says “I know my mother live in the boondocks under some tall  tall trees. But I know this ain’t it" and they stop at a train track. And your mother decides to leave and you follow the abandoned train and walk until you find the river bank where you see a dead man and you go running. Old trains become a motif in this game. You enter and leave the world
+Instead of this silly weird desert scenario. Make it instead forestry. Mother says “I know my mother live in the boondocks under some tall  tall trees. But I know this ain’t it" and they stop at a train track. And your mother decides to leave and you follow the abandoned train and walk until you find the river bank where you see a dead man and you go running. Old trains become a motif in this game. You enter and leave the world  */
 
 
-:: CW 
-<i>Cheng Ke</i> is a murder mystery, interactive text novel. There will be a plethora of things to watch out for. Here is a list of themes. Click the links for more details, but there will be slight spoilers as a result. The details are vague enough, so you won’t know names of characters or where the event occurs in the story.
+===CW===
 
-- Tragic accident/Near Death Experience: The main character survives a car crash and experiences a near death experience. Spirits follow him around ever since.
+<i>Passenger</i> is a murder mystery, interactive text novel. Here is a list of themes.
 
-- Suicide and stalking:  A main plot element of the story, the main character’s distant cousin commits suicide and he must find out the reason for it. It turns out they were a victim of stalking.
+- Near death experience in the intro.
 
-- Murder: You are supposed to lure and track down a murderer to get him arrested.
+- Suicide (Drug Overdose)
+
+- Stalking
+
+- Murder
+
+- Family Tragedy
 
 
 
-:: Credits
+
+===Credits===
 Written, Coded, and Designed by Wei Yuan Lee 
-Logo by
-Created in Twine 2/Sugarcube 2.
-The title of this game, <<linkreplace: "“乘客">>["ChéngKè", or Passenger].<</linkreplace>>
+Created in Inky, Javascript. Mobile version created with Ink
 
-This game is inspired by African American Southern Gothic literature such as <i>Sing, Unburied, Sing</i> by Jesmyn Ward, The album, <<linkreplace: "黑梦">>[Black Dream] by Mainland Chinese musician, Dou Wei, and the music video for the song <<linkreplace: "“半島鐵盒"">>[Iron Box of An Island] by Han-Taiwanese musician, Jay Chou.<</linkreplace>>
+This game is inspired by African American Southern Gothic literature such as <i>Sing, Unburied, Sing</i> by Jesmyn Ward, 黑梦 by Mainland Chinese musician, Dou Wei, and the music video for the song "半島鐵盒" by Han-Taiwanese musician, Jay Chou.
 
-[[Return|Start]]
+Edited by
+
+Beta-players:
+
+Follow me on twitter: @delete_wei for game updates and random screams about code. You can also find me on my website where I blog about books I read, games I played, and also my work progress.
 
 
+* [Restart?]
+->Chapter1Screen
+
+* [Return to menu]
+->Start
 
 
-
-:: about
-<i>Passenger</i> is a urban fantasy mystery twine novel about spirits, family superstition, intergenerational trauma, and decayed class privilege.
+===about===
+<i>Passenger</i> is a urban fantasy/mystery interactive novel about spirits, family superstition, intergenerational trauma, and decayed class privilege.
 There are only two endings. It is about -insert number - words long.
 
-Did you read the content warning? If you prefer not to, you can [[continue|Chapter1Screen]], if you forgot you can [[read it now.|CW]]
+Did you read the content warning?
+
+* [Yes, I will continue on.]
+->Chapter1Screen 
+
+* [No, I want to read it.]
+->CW
+
+
+===Chapter1Screen===
+Chapter 1
+
+Heaven Garden Falls 
 
 
 
-:: Chapter1Screen 
-Chapter 1: Heaven, Sky, Garden Falls
-
-[[epigraph|IntroReborn]] 
+* [epigraph] 
+->IntroReborn
 
 
-:: IntroReborn 
-I am born again, pulled out of the womb of a crunched up cab. Hospital sirens blaring all throughout, cop car lights’ blue and red rays against my lids. Feeling the wetness of my own and maybe the driver’s blood all over my hands and face. Glass in between the webs of my fingers, my rows of braided hair.
+===IntroReborn===
+I am born again, pulled out of the womb of a crunched up cab. Hospital sirens blaring all throughout, cop car lights’ blue and red rays against my lids. Feeling the wetness of my own and the driver’s blood all over my hands and face. Glass in between the webs of my fingers, my rows of braided hair.
 
 I can barely walk, my legs can’t handle me now.
 
-The world under my feet can’t [[even hold me.|IntroCellphone]]
+* The world under my feet[] can’t even hold me.
+->IntroAccident 
 
 
 
-:: IntroAccident 
+===IntroAccident=== 
 
-The driver had stopped talking and his body fell limp like a puppet whose strings were cut. His blood leaked from his head and stained the fabric of the air bag, like a fallen cup of red paint on a canvas. The stain formed a shape resembling a flower opening up its petals as it thirsts for the sun.
+The driver had stopped talking and his body fell limp like a puppet whose strings were cut. His blood leaked from his head and stained the fabric of the air bag, like red paint splat on a canvas. The stain formed a shape resembling a flower opening up its petals as it thirsts for the sun.
 
-The man who caused the accident came to our car, muttered some expletives out of his quivering lips, and then his coward ass drove away without even contacting the police. He ran away with his tail in between his legs, not admitting his part in a stolen life. The person who had hit us from the front? I don’t know about their fate, the air bag had covered their last moment.
+The man who caused the accident came to our car, muttered some expletives out of his quivering lips, and then his coward ass drove away without even contacting the police. (He ran away with his tail in between his legs, not admitting his part in a stolen life.) The person who had hit us from the front? I don’t know about their fate, the air bag had covered their last moment.
 
-A witness called, I [[couldn’t thank her.|Introthetunnel]] I had fallen out of consciousness, couldn’t even part my lips.
+A witness called, I couldn’t thank her. 
+
+* I had fallen out of consciousness, [] couldn’t even part my lips.
+->Introthetunnel 
 
 
 
-:: Introthetunnel 
+===Introthetunnel===
 
-I can’t explain what I saw after my eyes had closed, it looked like a hand reaching for my face in the darkness.
+What happened after my eyes had closed, I can't really explain the origin. It looked like a hand reaching for my face in the darkness.
 
 The smell of burned cinders, permeating my nostrils, the compounds tightening my throat. It felt so hot, yet my body felt enveloped in a wet film. There was a discussion of something around me, murmuring about what to do maybe with my corpse. To ship me and send me to an island of nameless others, because no one can claim me, because I am unrecognizable from the wreckage.
 
-I heard a hesitant, clumsy on the lips: “Yes, sir". Then the being’s hand came forward and [[shut my lids.|IntroCellphone]]
+I heard a hesitant, clumsy on the lips: "Yes, sir". 
 
+* Then the being’s hand came forward again [] and shut my lids.
+->IntroCellphone
 
-:: IntroCellphone 
+===IntroCellphone===
 
-I think I left my cell phone in the body of the cab.
-
-The text didn't get a chance to go through, I think I stopped at “I’m", before the driver got gutted in the front, and T-boned on the passenger side.
+My cell phone is in the body of the cab. There was a text that didn't get a chance to go through. I think I stopped at "I’m", before the driver got gutted in the front, and I got T-boned on the passenger side.
 
 It felt cold in there, to feel the wind passing through the wreckage, the steel innards scraping against my skin, to feel myself closer to the other side.
 
-I sure as hell [[don’t wanna experience|IntroSuicide]] this again.
+* I sure as hell don’t wanna experience [] this again.
 
-
-
-:: IntroSuicide 
+===IntroSuicide===
 Was it some kind of sign? Did my mother suppress the beginnings of a curse as she disrupted the waves of digital voice across the sea?
-Mom: “Your cuz committed suicide this morning. His parents just called us for the first time in 10 years to tell us this. I hung up right after they asked about you."
-Me: “Why?"
-Mom: “Why what?"
+
+Mom: "Your cuz committed suicide this morning. His parents just called us for the first time in 10 years to tell us this. I hung up right after they asked about you."
+Me: "Why?"
+Mom: "Why what?"
 Me: “Why’d hang up on them?"
-Mom: “Your Father is going to the funeral. You’re not going over there."
+Mom: "Your Father is going to the funeral. You’re not going over there."
 I know I was going to say something, but I don’t remember it now as I’m on the stretcher.
-Me: “I’m"
-They say if you pause mid sentence and forget what you were saying, it was a lie. God felt like it wasn’t the right thought to reveal and snatched it away, messing with the conversation flow.
+Me: "I’m"
 
-I don’t know what I would [[be lying about|IntroHospital]] though in that context.
+They say if you pause mid sentence and forget what you were saying, it was a lie. God felt like it wasn’t the right thought to reveal and snatched it away to prevent the sin.
 
+I don’t know what I would be lying about [] though in that context.
+->IntroHospital
 
-
-:: IntroHospital 
+===IntroHospital===
 I had “died" in a car a mere minute after my cousin was pronounced dead by an overdose. I lay in the hospital bed, thinking about this, as bandages surround my face and hands like Kobo Abe’s <i>The Face of Another</i>.
 
 I am sheathed within white curtains. There’s a window on my right side, the sky the color of citrus carpels, the sun a pith. The movements of the nurse and my parents are like shadowplay against my cubicle drapery, necks and hands fraught with tension so thick that the whispers can barely cut through it.
 
-Actually, I think they’re being drowned out by the sound of an air conditioner. I also don’t have the greatest of hearing. It runs strong in my mother’s bloodline.
+Actually, I think they’re being drowned out by the sound of an air conditioner. (I also don’t have the greatest of hearing. It runs strong in my mother’s bloodline.)
 
-Seems like something is very wrong but -
-I should stay in this [[cocoon and rest|IntroHospitalCocoon]]
-[[I start to panic|IntroHospitalFeign]]
+Seems like something is very wrong but: 
+
+I should stay in this cocoon [] and rest
+->IntroHospitalCocoon
+
+* I start to panic 
+->IntroHospitalPanic
+
+===IntroHospitalCocoon=== 
+There is nothing else I can do anyway. My body needs to rest, I should appreciate this moment. After all, this will probably be the first time I can rest my back like this. Washing dishes in the the kitchen, having my hands plunge into a pit of utensils, my back has never gained a resilience to the posture no matter what shoes I wear.
+
+I regret taking the job at least two times in each moon cycle. Like, it’s not  tormenting me, but I would like some variety. At home, I sit on a cushion with my shoulders hunched over in front of the television and think what if I didn’t get a degree in Sociology and instead followed in my father’s footsteps?
+
+Should I get a back brace []and some tacos on the way out of the  hospital?
+->IntroParentsF
 
 
-
-:: IntroHospitalCocoon 
-There is nothing else I can do anyway. My body needs to rest, I should appreciate this moment. After all, this will probably be the first time I can rest my back like this. Washing dishes in the back of the kitchen, having my hands plunge into a pit of utensils, my back has never gained a resilience to the posture no matter what shoes I wear.
-
-I regret taking the job at least two times in each moon cycle. Meaning, it’s not  torment, but I would like some variety. At home, I sit on a cushion with my shoulders hunched over in front of the television and think what if I didn’t get a degree in Sociology and instead followed in my father’s footsteps?
-
-Should I get a [[back brace and some tacos|IntroParentsF]] on the way out of the  hospital?
-
-
-
-:: IntroHospitalFeign
+===IntroHospitalPanic===
 I start to panic and reach for the curtains and instead bang my arm against the bed bars imprisoning me from the cold, concrete floors below.
 
-The disembodied voices of my parents and the nurse are halted with choked fear. The nurse rips open the curtains. I try to mutter an apology  but what comes out is more like a grunt of defeat. My parents look at me as if they haven’t seen me in a century, as if I no longer look the same, disfigured.
+The disembodied voices of my parents and the nurse are halted with choked fear. The nurse rips open the curtains. I try to mutter an apology but what comes out is more like a grunt of defeat. My parents look at me as if they haven’t seen me in a century, as if I no longer look the same, disfigured.
 
-Well, my face is [[covered up in gauze.|IntroParentsF]]
+* Well, my face is covered up in gauze.
+->IntroParentsF
 
+===IntroParentsF===
 
-
-:: IntroParentsF 
-My father sits in a chair at the foot of my bed, arms crossed, brows knitted together, looking at the window across from me. He wears that same black sweater with the white turtle neck when he isn’t wearing his chef uniform almost every day. The black color has washed out into a navy blue. His white turtleneck has evident pilling.
+My father sits in a chair at the foot of my bed, arms crossed, brows knitted together, looking at the window across from me. He wears that same black sweater with the white turtle neck when he isn’t wearing his chef uniform almost every day.(The black color has washed out into a navy blue. His white turtleneck has evident pilling.)
 
 The top combination came from a Korean high fashion brand, gifted to him from a rich distant Singaporean cousin who doesn’t talk to us. He will wear an article of clothing until it gets all patchey and holey, still preserving habits of a childhood in old, rural Singapore, where a barn house with dirt floors was called home.
 
 He doesn’t like to hold eye contact when conversations of heavy matter are bound to happen.
 
-[[I greet my pops with a chin flick.|IntroParentsFlick]]
-[[“You know that sweater is just falling apart right?"|IntroParentsFSweater]]
-[[I say nothing to him.|IntroParentsFNothing]]
+* [I greet my pops with a chin flick.]
+->IntroParentsFlick
+* "You know that sweater is just falling apart right?"
+->IntroParentsFSweater
+* [I say nothing to him.]
+->IntroParentsFNothing
 
-
-
-:: IntroParentsFlick
+===IntroParentsFlick===
 He nods to me and returns it. But doesn’t seem to want to say anything else. He’s always been a man of few words but I also think it might be a language barrier. Communication has always been like this between us. We sit together in silence or make three sentence comments, eating oranges or drinking tea or coffee. The split of the skin, the squirt of the juices as nails pierce the fruit meat.
 
-Sometimes the quiet tells me [[more about him|IntroParentsM]] than anything else.
+* Sometimes the quiet tells me more about him [] than anything else.
+->IntroParentsM 
 
-
-
-:: IntroParentsFSweater
-“Yea, and? So what?"
+=== IntroParentsFSweater ===
+"Yea, and? So what?"
 
 "Just saying you got like ten other sweaters."
 
-“Kwan, leave ya father alone," my mother says, the woman who buys him new sweaters every Christmas and he insists on wearing only that one.
+"Kwan, leave ya father alone," my mother says, the woman who buys him new sweaters every Christmas and he insists on wearing only that one.
 
-“I’m playing, I’m playing…" I tend to say this every time he wears it and I don’t know how anyone hasn’t popped me for it yet.
+"I’m playing, I’m playing…" I tend to say this every time he wears it and I don’t know how anyone hasn’t popped me for it yet.
 
-"You always got enery to be 'playing, playing'."
+"You always got energy to be 'playing, playing'."
 
-A strike of pain hits me on the head and I get dizzy. It feels like a tuning fork smacked against a surface, except it was done maybe by the disapproving finger of an ancestral spirit. Probably.
+A strike of pain hits me on the head and I get dizzy. It feels like a tuning fork smacked against a surface, except it was done maybe by the disapproving finger of an ancestral spirit on my head. 
 
-“Ow, ow."
+"Ow, ow."
 
-It goes away[[ in a moment|IntroParentsM]] though.
+* It goes away in a moment.
+->IntroParentsM
 
 
 
-:: IntroParentsFNothing 
+=== IntroParentsFNothing ===
 He clears his throat and starts wagging one of his crossed over legs as a calming twitch to pass the time.  I look around the room for my cell phone and remember that it was left in the cab wreckage. A wave of anguish flows through me, it was a brand new phone.
 
-Of all the things to worry about. My limbs are intact and my soul is still inside this little, brown head of mine. Yet I’m [[worried about a phone.|IntroParentsM]]
+Of all the things to worry about. My limbs are intact and my soul is still inside this little, brown head of mine. 
+
+* Yet, I’m worried about a phone.
+->IntroParentsM
 
 
 
-:: IntroParentsM 
-My mother sits on my side and her cold hands hold mine. I then….feel the searing of pain rise up my forearm like a fire consuming the forest of nerves in me. The nurse leaves us before I can say anything or even catch a glimpse of her face. I start to feel my head spinning again and an itch is flaring on my nose.
+=== IntroParentsM ===
+<> My mother sits on my side and her cold hands hold mine. I then….feel the searing of pain rise up my forearm like a fire consuming the forest of nerves in me. The nurse leaves us before I can say anything or even catch a glimpse of her face. I start to feel my head spinning again and an itch is flaring on my nose.
 
 “What hospital am I in?"
 
@@ -195,22 +234,25 @@ Did they take me to the hospital where you never leave after a procedure because
 “Oh, that’s…" I’m tempted to touch my face and my mother smacks my hands away.
 “Don’t touch ya face, you gonna make em bleed again."
 
-[[I place my hands on my lap and clasp them.|SoWhatHappened]]
-[[I attempt to rip everything off|Omgeveryonepanic]]
+* [I place my hands on my lap and clasp them.]
+->SoWhatHappened
+* [I attempt to rip everything off]
+->Omgeveryonepanic
 
 
 
-:: Omgeveryonepanic 
+=== Omgeveryonepanic ===
 
-I attempt to remove one of the gauze on my cheeks as its pulling at my side burns. Bad enough I inherited my father’s incomplete beard genes. Incompletion is practically a whole entire way of being for me.
+I attempt to remove one of the gauze on my cheeks as its pulling at my side burns. Bad enough I inherited my father’s incomplete beard genes. Incompletion is practically a whole lifestyle for me.
 
 “AY WHAT I TELL YOU!" my mother screams at me, but I am as stubborn as an ox going for another round of goring the matador.
 
 And wow it is bleeding alright.
 
-I feel the crevices in my skin bloat with blood again and see streaks of blood all over the bandages. My head begins incapable of bearing the weight of awareness.
+I feel the crevices in my skin bloat with blood again and see streaks of blood all over the bandages. My head becomes incapable of bearing the weight of awareness.
 
-[[I black out.|BlackOut]]<<set $blackout eq true>>
+* [I black out.]
+->BlackOut<<set $blackout eq true>> TODO: 7/25/2020 
 
 :: BlackOut 
 I’ve never liked the thought of or sight of blood, it makes me squirm. I wake up with the lights off and my parents are gone. The window is open, letting in a sigh of the night air. The curtains are sheathed around me again. They sway slightly in the wind.
