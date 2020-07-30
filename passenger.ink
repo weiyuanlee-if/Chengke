@@ -1402,9 +1402,11 @@ It's gonna be hot regardless. But someone needs to watch the car.
 [[Stay behind and just wait a little longer->alittlelonger]]
 
 
-::chapter2
+=== chapter2 ====
 
-Chapter 2: Old Man river
+<h1>Chapter 2</h1>
+
+<h2>Old Man river</h2>
 
 Going to see the river man
 Going to tell him all I can
@@ -1422,13 +1424,15 @@ Oh, how they come and go.
 
 - "River Man" by Nick Drake
 
-[[>>->theroadwalk]]
+->theroadwalk
 
-:: theroadwalk
+=== theroadwalk ===
 
-I don't know how I ended up here. But I hope my son smart enough to leave the damn car. I know I raised a smart boy, but there are days I do question what he doing. I went down the road, calling my sis and she didn't answer. Not even grandma. They all got their heads up their asses sometimes, but they never disappoint like this. I swear I wonder, what in the hell is in this bloodline.
+<i>Mother Walking the Road</i>
 
-The connection is down. So I wasn't calling no dead blood relatives then.
+I don't know how I ended up here. But I hope my son smart enough to leave the damn car. I know I raised a smart boy, but there are days I do question what he doing. I went down the road, calling my sis and she didn't answer. Not even grandma. They all got their heads up their asses sometimes, but they never disappoint <i>like this.</i>
+
+* The connection is down. [] So I wasn't calling no dead blood relatives then.
 
 I couldn't stop going forward especially since no one was responding and I didnt see anything else for help. The street is burning under my feets under these flats. I removed the scarf on my head and tied it around my burning neck.
 
@@ -1436,53 +1440,45 @@ Just as when I thought of turning back, I see a car in the distance. Some little
 
 He zoomed right past me. What a [[god damn asshole.->theroadwalk2]]
 
-:: theroadwalk2
+=== theroadwalk2 ===
 
 Walking down this empty road, I don't even understand how I havent seen a single car pass by me. It's not like it's late at night. It's merely 11AM. I am dying for a McDonald's coffee and breakfast muffin. The sun is bearing down on me and I start calling out for my Mother's name and making calls hoping she get to me.
 
-But nothing comes. Then it hits me that maybe I should hit up my aunts and cousins. I start scrolling on my contact list out of desperations, their numbers aren't in my phonebook. Man, we really dying on our way to a reunion huh?
+But nothing comes. Then it hits me that maybe I should hit up my aunts and cousins. I start scrolling on my contact list out of desperation, their numbers aren't in my phonebook. Man, we really dying on our way to a reunion huh?
 
-I decide to walk a little longer, if I don't find mother then I need return to the car. But not long after I start to question my decisions, I see in the distance [[A tunnel.->thetunnel]]
+I decide to walk a little longer, if I don't find mother then I need return to the car. But not long after I start to question my decisions. 
 
-
-:: thetunnelintro
-
-The entrance of the tunnel is encased in a stone arch, moss and white flowers hang, a petal comes off and falls right on the big toe of my shoe. I don't know what this is going to lead to, ain't see a thing down the darkness within it. Before I go in further, I listen for what's there in the unseeable, a faint wind coursing through. 
-
-[[So there is an end.->thetunnelwithin]]
-
-:: thetunnelwithin
-
-The walls around me are wet and cold. In my hand, I carry my iPhone on the flashlight setting. There is more than one tunnel and the moisture tinkles my nose.
+* [I see in the distance a tunnel]
+->thetunnel
 
 
+=== thetunnelintro ===
 
+The entrance of the tunnel is encased in a stone arch, moss and white flowers hang, a petal comes off and falls right on the big toe of my shoe. I don't know what this is going to lead to, ain't see a thing down the darkness within it. Before I go in further, I listen for what's there in the unseeable, a faint wind coursing through, which cools my skin and makes my sweats chill on my pores.
 
+* [So there is an end.]
+->thetunnelwithin
 
+=== thetunnelwithin ===
 
+The walls are wet and cold, as if it had rained inside. In my hand, I carry my iPhone on the flashlight setting. There is more than one road and the moisture tightens my throat, the spores of lichens and moss settling in me. In the distance, I can hear some trickling water. (There's possibility that this may lead to a river.) 
 
+In between this little fork, there is what looks like some semblance of visitors (a gift shop brand of bottled water. It has a slave owner's face glistening with barbaric pride) and a sign pasted into the carved embeddment of the cave wall. (Maybe, we've wondered into a nature preserve? Looks like it says "Old Solomontown")
 
+* [I turn left]
+->lefttunnel
 
+* [I turn right]
+->rightunnel
 
+* [I look closer at the sign]
+->lookcloser_sign
 
+/* Old Solomontown is an abandoned town. when you leave this tunnel you will find the train traacks that go over a bridge between land and end up in Old Solomontown. a place all torn and burned after a riot. This is the town that your Black side of the family used to live in. it was once a slave town, then sharecropper and after a riot, everything was burned down. here you will find the "other world" where a house lays before you. Soon you discover, a group of spirits who used to live in the house and befriend them. they all fear "the president". the president is a landlord who died after his stores were burnt down and he is the starter of the propoganda rag which hs made much of the chinese americans right wing and anticommunist and antichina. he and his descendents and minions basically control poor ppl's business or promisee ppl thriving business and then hit them with large requirements or sacrafices. This org he created still lives on today nd has gone to the north. Basically Lei dad's sacraficed his nephew to the landlord for his business to impress his sister who rats on her son as lazy. Lee this is screwed up, but ay it works i guess.  Soon you will discover that your cousin is trapped, a person that needs to be fed to a god. you discover him one night when you meet president and your uncle decides to show your cousin in jail, as a spy where he plays server to the god.
 
+slightly defunct note: if evenlop is true. reading the chinese hw, sends professor an email about the worksheets and reaading the thing again in chinese. if friendrequest true, its confirmed the girl responded, she sends a message.
 
-
-<!-- note: if evenlop is true. reading the chinese hw, sends professor an email about the worksheets and reaading the thing again in chinese. if friendrequest true, its confirmed the girl responded, she sends a message. if none of them true its the casual looking out the window and a dream about death. The cat breaks down in the middle of the road nd they have to walk there. so they sleep bc its too hot and Lei starts to finally hallucinte his uncle.
-
-Big Plot: So like when you get to the part where you transport to the alt world. Based on earlier choices your role in the alt world is chosen. So basiclly without your uncle's help,if you chose the Chinese hw, you go to the well a little earlier and descend into the lt world, if you dont, your uncle has to lead you there. 
-
-In the new world, you are found in a brn and craawl. its a pig farm and you re chosen to be put into the village. You are branded depending on your choices with a new role: chef, spy, and scholar.
-
-those are your methods of work. with your uncle your learn about the world. Your uncle is simply a spy and is the one who gets you the info and the means. Soon you will discover that your cousin is trapped, a person that needs to be fed to a god. you discover him one night when you meet president and your uncle decides to show your cousin in jail, as a spy where he plays server to the god.
-
-the president is a landlord who died after his stores were burnt down and he is the starter of the propoganda rag which hs made much of the chinese americans right wing and anticommunist and antichina
-
-he and his descendents and minions basically control poor ppl's business or promisee ppl thriving business and then hit them with large requirements or sacrafices.
-
-Basically Lei dad's sacraficed his nephew to the landlord. His aunt didnt want the child.
-
-Lee this is screwed up, but ay it works i guess. -->
+  */
 
 
 
