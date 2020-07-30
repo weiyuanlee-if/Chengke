@@ -213,7 +213,7 @@ A strike of pain hits me on the head and I get dizzy. It feels like a tuning for
 
 
 
-=== IntroParentsFNothing ===
+===IntroParentsFNothing===
 He clears his throat and starts wagging one of his crossed over legs as a calming twitch to pass the time.  I look around the room for my cell phone and remember that it was left in the cab wreckage. A wave of anguish flows through me, it was a brand new phone.
 
 Of all the things to worry about. My limbs are intact and my soul is still inside this little, brown head of mine. 
@@ -223,7 +223,7 @@ Of all the things to worry about. My limbs are intact and my soul is still insid
 
 
 
-=== IntroParentsM ===
+===IntroParentsM===
 <> My mother sits on my side and her cold hands hold mine. I then….feel the searing of pain rise up my forearm like a fire consuming the forest of nerves in me. The nurse leaves us before I can say anything or even catch a glimpse of her face. I start to feel my head spinning again and an itch is flaring on my nose.
 
 “What hospital am I in?"
@@ -241,7 +241,7 @@ Did they take me to the hospital where you never leave after a procedure because
 
 
 
-=== Omgeveryonepanic ===
+===Omgeveryonepanic===
 
 I attempt to remove one of the gauze on my cheeks as its pulling at my side burns. Bad enough I inherited my father’s incomplete beard genes. Incompletion is practically a whole lifestyle for me.
 
@@ -254,10 +254,10 @@ I feel the crevices in my skin bloat with blood again and see streaks of blood a
 * [I black out.]
 ->BlackOut<<set $blackout eq true>> TODO: 7/25/2020 
 
-:: BlackOut 
-I’ve never liked the thought of or sight of blood, it makes me squirm. I wake up with the lights off and my parents are gone. The window is open, letting in a sigh of the night air. The curtains are sheathed around me again. They sway slightly in the wind.
+===BlackOut=== 
+I’ve never liked the thought of or sight of blood, it makes me squirm. I wake up with the lights off, my parents are gone. The window is open, letting in a sigh of the night air. The curtains are sheathed around me again.
 
-It’s not the first time I’ve fainted over it, but it’s shameful to me. A wimp I am. I still don’t know exactly what happened and I’m assuming the cop has to come another day now since I fainted. So now, the answers are pushed further and I have to dwell on it longer.
+It’s not the first time I’ve fainted over it, but it’s shameful to me.(A wimp I am, I don't even understand how once it used to come out of me every month.) Turning over, I still don’t know exactly what happened and I’m assuming the cop has to come another day. So now, the answers are pushed further and I have to dwell on it longer.
 
 I try to go back to sleep. But I feel like there’s something lurking above me  in the darkness.
 
