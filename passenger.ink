@@ -1507,9 +1507,10 @@ It seems a little bit too green, the color is thicker than the algae kind.
 
 Eventually I get to a water fall where I assume the river is nourishing some other part of this nature preserve. I highly doubt my mother is anywhere out there, so I think of turning back but then notice  a bridge that stretches across to some other place, deeper in the woods.
 
-I don't want to go, it doesn't seem like a good choice. The bridge is old and moans as it sways in the wind.
+I don't want to go, it doesn't seem like a good choice. The bridge is old and moans as it sways in the wind, as if exhausted of its existence.
 
 * [Go anyway]
+->riverpreserve_house
 
 * [Call Mother before going]
 
