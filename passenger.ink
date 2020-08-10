@@ -14,12 +14,6 @@ VAR blackout = false
 * [Credits]
 ->Credits
 
-/* Plot note: There is a man behind you during the car crash who also crashed and die, he haunts you. Then it turns out that he was a distant cousin as your aunt down in the South says “We got all kind of family spanning the whole country. You shake hands with a cuz and don’t even know it. But then you turn and realize. Those eyes looked familiar. But none of them people will talk to ya. Hell, I don’t even remember what names the family tree has adopted by now. Williams, Garcia, and Richardson…and then there’s you, Kwan." My grandmother smiles and her teeth are so bright and straight for a person her age.
-
-Plot note 6/20:
-
-Instead of this silly weird desert scenario. Make it instead forestry. Mother says “I know my mother live in the boondocks under some tall  tall trees. But I know this ain’t it" and they stop at a train track. And your mother decides to leave and you follow the abandoned train and walk until you find the river bank where you see a dead man and you go running. Old trains become a motif in this game. You enter and leave the world  */
-
 
 ===CW===
 
@@ -923,7 +917,7 @@ A Chinese man quite sun kissed as if working the fields his whole life, lanky an
 
 
 
-I know his face but can’t place a name on him, something in me tells me hes no longer here though. I look at the back of the photo. "1981" this happened way before I was born.s I pocket the photo to ask for later. <<set $photo to true>>
+I know his face but can’t place a name on him, something in me tells me hes no longer here though. I look at the back of the photo. "1981" this happened way before I was born. I pocket the photo to ask for later. <<set $photo to true>>
 
 
 
@@ -1113,13 +1107,15 @@ I don’t want to look at anything or process information. One of the things I l
 The news site I frequent is a site that old timers usually frequent. It’s filled with buzzing and provocative headlines, thumbnails of politicians mid speech or startled by the camera. It’s a glitz and glam with a little blood dripped on by the flick of a brush for the audience.
 I scroll down looking for something interesting to read. Usually I like to read the health sciences or the economic articles on job markets, regardless if the science has any credibility to it.
 
-I want to know which degrees are worth one penny and a paperclip and what food gives me right omega 3s.
+I want to know which degrees are worth one penny and a paperclip and what food gives me the right omega 3s.
 But then I see an article. I think about me?
 “Local Son of Chinese Restaurant Owner Involved in Queens Car Crash"
-My father’s restaurant, Heaven Sky Garden, is mentioned along with the fact that I am his one and only son. A man in his mid 40s was found dead in a red Toyota behind me. And the vehicle that had T-boned me was a black SUV that contained a man much older, in his late 50s.
+My father’s restaurant, Heaven Sky Garden, is mentioned along with the fact that I am his one and only son. A man in his mid 40s was found dead in a red Toyota behind me. And the vehicle that had T-boned me was a black SUV that contained a man much older, in his early 60s.
 
 No wonder why the taxi  ended up becoming a ball of wreckage. That was some soccer mom tank that came zooming without a drop of consciousness for others. The article states at the end the police do not know why this accident happened.
-After all, there is a picture here. With me in that wreckage, breathing and conscious in a shell.
+
+Despite that, there is a picture here. With me in that wreckage, breathing and conscious in a shell.
+
 Now that I recall. It was rush hour, but the taxi driver went on this route that was empty because I guess everyone else had decided to go the long route.
 Also, the shirt in the trunk. Which is not even mentioned in this article. I can’t dwell in this now. <<set $news to true>>
 [[Log into the student portal|student portal]]
@@ -1456,14 +1452,14 @@ I decide to walk a little longer, if I don't find mother then I need return to t
 
 The entrance of the tunnel is encased in a stone arch, moss and white flowers hang, a petal comes off and falls right on the big toe of my shoe. I don't know what this is going to lead to, ain't see a thing down the darkness within it. Before I go in further, I listen for what's there in the unseeable, a faint wind coursing through, which cools my skin and makes my sweats chill on my pores.
 
-* [So there is an end.]
+* [So there is an opening to elsewhere.]
 ->thetunnelwithin
 
 === thetunnelwithin ===
 
-The walls are wet and cold, as if it had rained inside. In my hand, I carry my iPhone on the flashlight setting. There is more than one road and the moisture tightens my throat, the spores of lichens and moss settling in me. In the distance, I can hear some trickling water. (There's possibility that this may lead to a river.) 
+The walls are wet and cold, as if it had rained inside. In my hand, I carry my iPhone on the flashlight setting. There is more than one road and the moisture tightens my throat, the spores of lichens and moss settling in me. In the distance, I can hear some trickling water. (There's a possibility that this may lead to a river.) 
 
-In between this little fork, there is what looks like some semblance of visitors (a gift shop brand of bottled water. It has a slave owner's face glistening with barbaric pride) and a sign pasted into the carved embeddment of the cave wall. (Maybe, we've wondered into a nature preserve? Looks like it says "Old Solomontown")
+In between this little fork, there is what looks like some semblance of visitors (a bottle of water with its wrapper ripped off.) and a sign pasted into the carved embeddment of the cave wall. (Maybe, I’ve wandered into a nature preserve? Looks like it says "Old Solomontown")
 
 * [I turn left]
 ->lefttunnel
@@ -1474,11 +1470,19 @@ In between this little fork, there is what looks like some semblance of visitors
 * [I look closer at the sign]
 ->lookcloser_sign
 
-/* Old Solomontown is an abandoned town. when you leave this tunnel you will find the train traacks that go over a bridge between land and end up in Old Solomontown. a place all torn and burned after a riot. This is the town that your Black side of the family used to live in. it was once a slave town, then sharecropper and after a riot, everything was burned down. here you will find the "other world" where a house lays before you. Soon you discover, a group of spirits who used to live in the house and befriend them. they all fear "the president". the president is a landlord who died after his stores were burnt down and he is the starter of the propoganda rag which hs made much of the chinese americans right wing and anticommunist and antichina. he and his descendents and minions basically control poor ppl's business or promisee ppl thriving business and then hit them with large requirements or sacrafices. This org he created still lives on today nd has gone to the north. Basically Lei dad's sacraficed his nephew to the landlord for his business to impress his sister who rats on her son as lazy. Lee this is screwed up, but ay it works i guess.  Soon you will discover that your cousin is trapped, a person that needs to be fed to a god. you discover him one night when you meet president and your uncle decides to show your cousin in jail, as a spy where he plays server to the god.
+===lookcloser_sign===
 
-slightly defunct note: if evenlop is true. reading the chinese hw, sends professor an email about the worksheets and reaading the thing again in chinese. if friendrequest true, its confirmed the girl responded, she sends a message.
+Old Solomon Town is fading away. The N is losing its bearing and the O of “Solo” has become a U. I trace the letters with my finger. 
 
-  */
+I feel the past silence and cold through the hollows. My finger pad glistens with fresh wetness.
+
+That’s all there is and honestly, I don’t remember my mother mentioning any such thing as “Old Solomon Town”. 
+
+
+
+
+
+
 
 
 
