@@ -1459,7 +1459,7 @@ The entrance of the tunnel is encased in a stone arch, moss and white flowers ha
 
 The walls are wet and cold, as if it had rained inside. In my hand, I carry my iPhone on the flashlight setting. There is more than one road and the moisture tightens my throat, the spores of lichens and moss settling in me. In the distance, I can hear some trickling water. (There's a possibility that this may lead to a river.) 
 
-In between this little fork, there is what looks like some semblance of visitors (a bottle of water with its wrapper ripped off.) and a sign pasted into the carved embeddment of the cave wall. (Maybe, I’ve wandered into a nature preserve? Looks like it says "Old Solomontown")
+In between this little fork, there is what looks like some semblance of visitors (a bottle of water with its wrapper ripped off. A crumpled ball of what is presumably the wrapper lays inside of it, like  message in a bottle at shore) and a sign pasted into the carved embeddment of the cave wall. (Maybe, I’ve wandered into a nature preserve? Looks like it says "Old Solomontown")
 
 * [I turn left]
 ->lefttunnel
@@ -1476,7 +1476,52 @@ Old Solomon Town is fading away. The N is losing its bearing and the O of “Sol
 
 I feel the past silence and cold through the hollows. My finger pad glistens with fresh wetness.
 
-That’s all there is and honestly, I don’t remember my mother mentioning any such thing as “Old Solomon Town”. 
+That’s all there is and honestly, I don’t remember my mother mentioning any such thing as “Old Solomon Town”. A question to ask when I finally find her.
+
+* [Return]
+->thetunnelwithin
+
+===righttunnel===
+
+I turn right, after all there is only two ways of this bisection. The roar gets louder and there is a slope as I continue walking. Losing momentum as I go, I decide to move closer to a wall as it also gets darker. There's cold and steel here. 
+
+With the flashlight of my iPhone, I find that my hand has settled on a railing that is in much need of a paint job. (Rusted flecks and white paint chips. Could cause a need for a tetanus shot.) 
+
+Soon I come upon a staircase that leads to the outside to somewhere.
+
+* I go down the steps [] and find a river.
+->riverpreserve
+
+===riverpreserve===
+
+You can't get near the water as wired gates stretch on in the distance, preventing even a coincidental slip on the river bank. The water flows green and white foam speckle the surface. Sunlight travels across it, setting down her children on the ever lasting flow of what makes the earth and her own children quenched.
+
+There is a sign here too and it says "Do Not Climb", I walk up to the gate halfway breaking the rule. The river is deep enough to put your head in, to baptize yourself, before sinking in to die. Something does seem a bit off about the water but I can't quite put my finger on it.
+
+It seems a little bit too green, the color is thicker than the algae kind.
+
+* I keep moving on []
+->riverpreserve_moving
+
+===riverpreserve_moving===
+
+Eventually I get to a water fall where I assume the river is nourishing some other part of this nature preserve. I highly doubt my mother is anywhere out there, so I think of turning back but then notice  a bridge that stretches across to some other place, deeper in the woods.
+
+I don't want to go, it doesn't seem like a good choice. The bridge is old and moans as it sways in the wind.
+
+* [Go anyway]
+
+* [Call Mother before going]
+
+* [Turn back]
+
+
+
+
+
+
+
+
 
 
 
