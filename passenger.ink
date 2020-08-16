@@ -1,4 +1,5 @@
 VAR blackout = false
+VAR phone = false
 
 
 ->Start
@@ -34,9 +35,8 @@ VAR blackout = false
 
 ===Credits===
 Written, Coded, and Designed by Wei Yuan Lee 
-Created in Inky, Javascript. Mobile version created with Ink
 
-This game is inspired by African American Southern Gothic literature such as <i>Sing, Unburied, Sing</i> by Jesmyn Ward, 黑梦 by Mainland Chinese musician, Dou Wei, and the music video for the song "半島鐵盒" by Han-Taiwanese musician, Jay Chou.
+This game is inspired by African American Southern Gothic literature such as <i>Sing, Unburied, Sing</i> by Jesmyn Ward, Sula by Toni Morrison, 黑梦 by Mainland Chinese musician, Dou Wei, and the music video for the song "半島鐵盒" by Han-Taiwanese musician, Jay Chou.
 
 Edited by
 
@@ -66,9 +66,9 @@ Did you read the content warning?
 
 
 ===Chapter1Screen===
-Chapter 1
+<h1>Chapter 1</h1>
 
-Heaven Garden Falls 
+<h2>Heaven Garden Falls</h2>
 
 
 
@@ -77,26 +77,67 @@ Heaven Garden Falls
 
 
 ===IntroReborn===
-I am born again, pulled out of the womb of a crunched up cab. Hospital sirens blaring all throughout, cop car lights’ blue and red rays against my lids. Feeling the wetness of my own and the driver’s blood all over my hands and face. Glass in between the webs of my fingers, my rows of braided hair.
 
-I can barely walk, my legs can’t handle me now.
+I am born again, inside the womb of a crunched up cab.  Feeling the wetness of my own and the driver’s blood all over my hands and face. Glass in between the webs of my fingers, my rows of braided hair.
 
-* The world under my feet[] can’t even hold me.
-->IntroAccident 
+The driver had stopped talking and his body fell limp like a puppet whose strings were cut. His blood leaked from his head and stained the fabric of the air bag, like red paint from a toppled can on a canvas. The stain formed a shape resembling a flower opening up its petals as it thirsts for the sun.
+
+The man who caused the accident came to our car, muttered some expletives out of his quivering lips, and then his coward ass drove away without even contacting the police. (He ran away with his tail in between his legs, not admitting his part in a stolen life and one that is halfway there) The person who had hit us from the front? I don’t know about their fate, the air bag had covered their last moment.
+
+I can barely walk, but [] I can muster one more ounce of energy.
+->IntroAccidentA
+
+I continue to rest, The world under my feet [] can’t even hold me.
+->IntroAccidentB
+
+* I stop and listen [] for another call.
+->IntroAccidentC
+
+===IntroAccidentA===
+
+===IntroAccidentB=== 
+
+
+===IntroAccidentC===
+
+My cellphone had flown under the seat when the impact happened, then it slid from under the seat back under my feet. The screen thrice more cracked, now a radial crack beyond saving. A cool breeze flows in from the window, the remains of the car door is above my torso, the impact creating a jutting buttress. 
+
+If the police doesn't come in time (Which I know they will take their sweet ass time) I need to limbo my way down and get my cellphone.
+
+* I worm down [] hoping my chin doesn't hit a steel tip.
+->getphone
+
+* I look up and try to worm my way out. []
+->wormingcar
+* Is it even worth winging it? []
+->IntroAccidentB
+
+===getphone===
+
+After all, I'm not that big or long of a guy. I try to wiggle my way down, sliding my butt down and using my feet to hook myself to those ridged plastic mats cars always have. With my head turned to the side, I manage to get the phone closer to me and stretch my arm over. It almost didnt reach, but I use my long flipping bird finger to reel it in. 
+
+Then as I try to slide myself back in, some metal hooks onto my shirt and rips the shoulder slightly. I open the slit with fingers, it's only two centimeters of tear in my flesh.
+
+* That scar will stay. []
+
+->textwreck
+
+===textwreck===
+
+Hands shaking and wary of the glass embedding into my finger prints, I tap to call Mother. She's luckily not even aware of what's happening to me right now. 
 
 
 
-===IntroAccident=== 
+===wormingcar===
 
-The driver had stopped talking and his body fell limp like a puppet whose strings were cut. His blood leaked from his head and stained the fabric of the air bag, like red paint splat on a canvas. The stain formed a shape resembling a flower opening up its petals as it thirsts for the sun.
 
-The man who caused the accident came to our car, muttered some expletives out of his quivering lips, and then his coward ass drove away without even contacting the police. (He ran away with his tail in between his legs, not admitting his part in a stolen life.) The person who had hit us from the front? I don’t know about their fate, the air bag had covered their last moment.
-
-A witness called, I couldn’t thank her. 
-
-* I had fallen out of consciousness, [] couldn’t even part my lips.
 ->Introthetunnel 
 
+
+
+===Ambulance===
+
+Hospital sirens blaring all throughout, cop car lights’ blue and red rays against my lids.
 
 
 ===Introthetunnel===
@@ -1507,14 +1548,33 @@ It seems a little bit too green, the color is thicker than the algae kind.
 
 Eventually I get to a water fall where I assume the river is nourishing some other part of this nature preserve. I highly doubt my mother is anywhere out there, so I think of turning back but then notice  a bridge that stretches across to some other place, deeper in the woods.
 
-I don't want to go, it doesn't seem like a good choice. The bridge is old and moans as it sways in the wind, as if exhausted of its existence.
+I don't want to go, it doesn't seem like a good choice. The bridge is old and moans as it sways in the wind, as if exhausted of its existence. There's a sign here that even says "Beware" lest I fall to my doom, I assume. But it's pretty old. Anyway I've been out here for about an hour and the sky is becoming grape fruit horizons and the sun is the dish that the color spilled off of. 
 
 * [Go anyway]
 ->riverpreserve_house
 
 * [Call Mother before going]
+->call_mother_riverpreserve
 
 * [Turn back]
+->turn_back_river
+
+===riverpreserve_house===
+
+Maybe it's time to brave the road to precarious endings. I put one foot on a panel, then another, and another. My hands holding onto the shoulders of this bridge. I looked up at the sky, if I fall, that is all I will see. The Lord's strokes of canvas paint. Always picking the right colors. My feet steadly on each plank that floats in the air with assistance, and yet it feels like you're stepping on the surface of the sea.
+
+And lo and behold. I'm fine. It wasn't even that long of a stretch. Guess the apprehension and distance lengthened the bridge when I first came upon it.
+
+===call_mother_riverpreserve===
+
+
+
+
+
+===turn_back_river===
+//note: this little cave is just a decoration into the nature park. it turns out old solomon town is a park for ghost hunter and visitors to explore the nature and eventually the burned town. it is a place of destruction in its nature. the grandma quips that ppl enjoy black pain and ghosts, making us a historical display is just mad weird.
+
+
 
 
 
