@@ -93,59 +93,96 @@ I continue to rest, silently pleading for help. []
 * [I search for my phone, gone from my hand.]
 ->IntroAccidentC
 
-===IntroAccidentA===
+    ===IntroAccidentA===
 
-===IntroAccidentB=== 
+    ===IntroAccidentB=== 
 
-The world under my feet can’t even hold me.
-
-
-===IntroAccidentC===
-
-My cellphone had flown under the seat when the impact happened, then it slid again back under my feet. The screen  now a radial crack beyond saving. A cool breeze flows in from the window, the remains of the car door is above my torso, the impact creating a jutting buttress. 
-
-If the police doesn't come in time (Which I know they will take their sweet ass time) I need to limbo my way down and get my cellphone.
-
-* I worm down [] hoping my chin doesn't hit a steel tip.
-->getphone
-
-* I look up and try to worm my way out instead. []
-->wormingcar
-* Is it even worth winging it? []
-->IntroAccidentB
-
-===getphone===
-
-After all, I'm not that big or long of a guy. I try to wiggle my way down, sliding my butt down and using my feet to hook myself to those ridged plastic mats that cars always have. With my head turned to the side, I manage to get the phone closer to me and stretch my arm over. It almost didnt reach, but I use my long flipping bird finger (I am very renown for being the small guy with the piano hands) to reel it in. 
-
-Then as I try to slide myself back in, some metal hooks onto my shirt and rips the shoulder slightly. I open the slit with fingers, it's only two centimeters of tear in my flesh.
-
-* That scar will stay. []
-
-->textwreck
-
-===textwreck===
-
-Hands shaking and wary of the glass embedding into my finger prints, I tap to call the cellphone, it goes straight to voice mail, my disembodied self falling into the load of digital mail stacks. I call the house phone, hoping maybe someone else will hear me. My call goes straight through, but all I hear is the air of an empty room and my father watching TV in the distance.
-
-Beneath the fanfare of a game show, I hear them arguing. "He", "She", "Them People", and then the sound of bagpipes (a cop funeral on the brick sidewalks with the bell tolling at the Catholic church0 from the TV speakers overpowers them. 
+    The world under my feet can’t even hold me.
 
 
-I hang up. It feels very cold in here despite it being 90 degrees and utterly humid. I need to get out of here before this tomb blows up on me. There is no gas scent, but why risk it?
+        ===IntroAccidentC===
+
+        My cellphone had flown under the seat when the impact happened, then it slid again back under my feet. The screen  now a radial crack beyond saving. A cool breeze flows in from the window, the remains of the car door is above my torso, the impact creating a jutting buttress. 
+
+        If the police doesn't come in time (Which I know they will take their sweet ass time) I need to limbo my way down and get my cellphone.
+
+        * I worm down [] hoping my chin doesn't hit a steel tip.
+        ->getphone
+
+        * I look up and try to worm my way out instead. []
+        ->wormingcar
+        * Is it even worth winging it? []
+        ->IntroAccidentB
+
+        ===getphone===
+
+        After all, I'm not that big or long of a guy. I try to wiggle my way down, sliding my butt down and using my feet to hook myself to those ridged plastic mats that cars always have. With my head turned to the side, I manage to get the phone closer to me and stretch my arm over. It almost didnt reach, but I use my long flipping bird finger (I am very renown for being the small guy with the piano hands) to reel it in. 
+
+        Then as I try to slide myself back in, some metal hooks onto my shirt and rips the shoulder slightly. I open the slit with fingers, it's only two centimeters of tear in my flesh.
+
+        * That scar will stay. []
+
+        ->textwreck
+
+        ===textwreck===
+
+        Hands shaking and wary of the glass embedding into my finger prints, I tap to call the cellphone, it goes straight to voice mail, my disembodied self falling into the load of digital mail stacks. I call the house phone, hoping maybe someone else will hear me. My call goes straight through, but all I hear is the air of an empty room and my father watching TV in the distance.
+
+        Beneath the fanfare of a game show, I hear them arguing. "He", "She", "Them People", and then the sound of bagpipes (a cop funeral on the brick sidewalks with the bell tolling at the Catholic church0 from the TV speakers overpowers them. 
+
+
+        I hang up. It feels very cold in here despite it being 90 degrees and utterly humid. I need to get out of here before this tomb blows up on me. There is no gas scent, but why risk it?
 
 
 
-===wormingcar===
+        ===wormingcar===
 
-The window is almost completely broken on both sides. The side with the buttress is completely gone but the left still has a remainder of its original structure.  I punch it off. (And scream in fucking agony in the process. The knuckle bleed. but I'm fine.) The window is about one hip wide for a person my size. 
+        The window is almost completely broken on both sides. The side with the buttress is completely gone but the left still has a remainder of its original structure.  I punch it off. (And scream in fucking agony in the process. The knuckle bleed. but I'm fine.) The window is about one hip wide for a person my size. 
 
-As I crawl out. I swear I heard the driver moan, but that could be his spirit finally leaving through the emitting of gas. 
+        As I crawl out. I swear I heard the driver moan, but that could be his spirit finally leaving through the emitting of gas. 
 
-->thecrashroom
+        ->thecrashroom
 
-===thecrashroom===
+            ===thecrashroom===
 
-The silence, the lack of street lights, the crunch and clink of fallen glass under my shoes. I don't know where I could possibly be where no cars are passing by. Perhaps the yellow tape is somewhere in  proximity. Maybe they will come for me soon. It doesn't even feel like I'm on the Hilton street where the Claymore stadium is. (The stadium infamously built by funding from a defunct rapper who likes baseball but not feeding mouths unlike his.)
+            The silence, the lack of street lights, the crunch and clink of fallen glass under the ridges of my shoes. I don't know where I could possibly be where no cars are passing by. Perhaps the yellow tape is somewhere in proximity. Maybe they will come for me soon. It doesn't even feel like I'm on the Hilton street where the Claymore stadium is. (The stadium infamously built by funding from a defunct rapper who likes baseball, but not feeding mouths unlike his.)
+
+            I hear nothing in the distance coming to get me. Surrounding me there is nothing but darkness, the flicking of the car lights, and what also seems like a fog enveloping the whole scene.
+
+            Perhaps no one can find me. But if I leave, who would find answers from a survivor and what would my parents think of me? Maybe I should do some policing of my own disaster site.
+
+            * [Look in the car from the front]
+            ->look_carfront
+
+                === look_carfront ===
+
+                I decide to look at the car that collided us from the front, trying my most not to look at the face of the departed in the taxi I sat in. The car that collided into us is a red Jeep, a tank of a car. Hence the impact led us into a fatal downfall. Hardly wounded, this steel body does not contain an occupant, disowned by its driver who did nothing to help us, merely cursed the Lord and hope for undeserved forgiveness.
+
+                I open the car door, which performed this action with a loud groan. Okay, it's not in as good of a condition as I thought. 
+
+                * [Look in the compartments]
+                ->compartmentsfront
+
+                * [Look in the trunk]
+                ->trunkfront
+                * [Look in the seats]
+                ->seatsfront
+
+
+
+            * [Look in the car from the side]
+            ->look_carside
+
+            === look_carside ===
+
+            * [Look in the car I just came out of]
+
+            * [Leave the site]
+            -> leaving_site
+
+            === leaving_site ===
+
+
 
 
 
