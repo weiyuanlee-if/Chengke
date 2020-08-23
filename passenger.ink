@@ -178,9 +178,13 @@ I continue to rest, silently pleading for help. []
 
                 I open the compartments. A guide to the car's mechanics, a pair of sunglasses. A Chinese takeout menu. A fresh orange. The Chinese takeout menu is recognizeable. It's my dad's place. Heaven Sky Garden. Pen scribbles mar the front cover of the pamplet. The writing is so sloppy I can barely read it. It doesn't look Roman nor Asiatic nor Doctor script.
 
-                It looks like all three. I take the menu though, I will figure it out eventually. (set to truez)
+                It looks like all three. I take the menu though, (I want to know what this guy knows about us!) I will figure it out eventually. (set to truez)
 
                 === trunkfront ===
+
+                I go to the back of the car. On the way there, I swear I heard the sound of a 
+
+
 
 
 
