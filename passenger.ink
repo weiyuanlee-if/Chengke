@@ -182,10 +182,17 @@ I continue to rest, silently pleading for help. []
 
                 === trunkfront ===
 
-                I go to the back of the car. On the way there, I swear I heard the sound of a 
+                I go to the back of the car. On the way there, I swear I heard the sound of a shifted limb or object, then a thud that echoes. (In the corner of my eye, I see that it may have come from the direction from the man who T-boned me.) Hesitant, at first, I open the trunk. Nothing except a greasy brown bag and a pack of water. 
 
+                The driver had some mcDonalds on the way. Nothing here to frame him for. But he sure did run fast like he had an agenda to never take accountability for.
 
+                I crack my knuckles and listen for the living fluid in me.
 
+                Anyway nothing else to see here.
+
+                * [Look in the car from the side]
+
+                * [Look in the car I just came out of]
 
 
 
@@ -194,6 +201,8 @@ I continue to rest, silently pleading for help. []
             ->look_carside
 
             === look_carside ===
+
+            
 
             * [Look in the car I just came out of]
 
